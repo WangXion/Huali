@@ -1,0 +1,114 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13144",
+      "name": "用户中心",
+      "font_class": "yonghuzhongxin",
+      "unicode": "f008e",
+      "unicode_decimal": 983182
+    },
+    {
+      "icon_id": "1030172",
+      "name": "箭头",
+      "font_class": "left",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "1594123",
+      "name": "箭头",
+      "font_class": "chevron-copy",
+      "unicode": "e72b",
+      "unicode_decimal": 59179
+    },
+    {
+      "icon_id": "4364419",
+      "name": "购物车-23",
+      "font_class": "qicheqianlian--copy",
+      "unicode": "e535",
+      "unicode_decimal": 58677
+    },
+    {
+      "icon_id": "4515685",
+      "name": "数据中心",
+      "font_class": "shujuzhongxin",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "4563779",
+      "name": "数据面板",
+      "font_class": "shujumianban",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "5094942",
+      "name": "提醒事项",
+      "font_class": "tixingshixiang",
+      "unicode": "e536",
+      "unicode_decimal": 58678
+    },
+    {
+      "icon_id": "6379510",
+      "name": "时间",
+      "font_class": "shijian",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "6472993",
+      "name": "首页-选中",
+      "font_class": "yemian-copy-copy",
+      "unicode": "e509",
+      "unicode_decimal": 58633
+    },
+    {
+      "icon_id": "7563303",
+      "name": "右箭头",
+      "font_class": "iconleft",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "8217564",
+      "name": "重量",
+      "font_class": "zhongliang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "8862511",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "12678149",
+      "name": "数据查询",
+      "font_class": "shujuchaxun",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "12953513",
+      "name": "用户",
+      "font_class": "yonghu1",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "13113209",
+      "name": "删 除",
+      "font_class": "shanchu",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    }
+  ]
+}
